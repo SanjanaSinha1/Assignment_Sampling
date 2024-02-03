@@ -1,6 +1,6 @@
 # Assignment_2_Sampling
-Submitted by: Sanjana Sinha
-Roll No: 102103040
+Submitted by: Sanjana Sinha  
+Roll No: 102103040  
 Group: 3COE2
 
 ## Dataset
@@ -19,5 +19,5 @@ I have used Logistic Regression,Decision Tree Classifier, Random Forest Classifi
 
 <img width="359" alt="image" src="https://github.com/SanjanaSinha1/Assignment_Sampling/assets/100065115/dcc3c13b-9f89-47ab-9733-37054597b089">
 
-Result
+Result  
 Systematic Sampling Technique and Random Forest Classifier had the best accuracy.
