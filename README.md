@@ -10,7 +10,7 @@ The dataset comprises 31 columns and 772 entries, with a target variable labeled
 The RandomOverSampler approach is used to balance this dataset. RandomOverSampler works by generating new samples by randomly sampling with replacement the current available samples. The synthetic points are added between the chosen point and its neighbors. After balancing the dataset, there are 763 entries each of Class '0' and '1'.
 
 ## Creating 5 Samples
-The Simple Random, Systematic, Stratified, Cluster and Bootstrap Sampling Techniques are used.
+The Simple Random, Systematic, Stratified, Cluster and Bootstrap Sampling Techniques are used to create samples.
 
 ## Models Used
  
