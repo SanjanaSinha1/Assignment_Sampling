@@ -24,5 +24,6 @@ Systematic Sampling Technique and Random Forest Classifier had the best accuracy
 
 ## Graph 
 
-![image](https://github.com/SanjanaSinha1/Assignment_Sampling/assets/100065115/170bd242-c16e-443b-9abb-6fdedbea0118)
+![image](https://github.com/SanjanaSinha1/Assignment_Sampling/assets/100065115/c18d2f03-d6c2-4855-8247-23efbfa0aa2a)
+
 
